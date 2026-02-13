@@ -68,17 +68,6 @@ I hold an **MS in Project Management**, allowing me to combine deep technical en
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahJaved-dev&show_icons=true&theme=radical)](https://github.com/AbdullahJaved-dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahJaved-dev&layout=compact&theme=radical)](https://github.com/AbdullahJaved-dev)
-
-</div>
-
----
-
 <div align="center">
   
   **Let's Connect!** If you are looking for a Senior Engineer who can handle complex Hardware integrations and scalable Architecture.
