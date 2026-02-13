@@ -6,7 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdullahjavedse)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:abdullahjaved.se@gmail.com)
-
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1NigPJ0hvLC_6acVqxlLO6O8AOv_GXAlP/view?usp=drivesdk)
 </div>
 
 ---
@@ -41,21 +41,25 @@ I hold an **MS in Project Management**, allowing me to combine deep technical en
 
 ### 🏆 Featured Projects
 
-#### 🏄‍♂️ [PADL (IoT & Watersports)](https://www.padl.co/)
+#### 🏄‍♂️ PADL (IoT & Watersports)
 **Tech:** Kotlin, Android BLE, Google Maps SDK, Geofencing
 > Engineered a resilient **BLE communication layer** for a self-service paddleboard rental system. Managed critical "Unlock/Return" sequences with **99.9% reliability** and implemented real-time location tracking to alert users if they drift into unsafe zones.
 
-#### 🍽️ [PickDish (AR Dining)](https://play.google.com/store/apps)
+#### 🍽️ PickDish (AR Dining)
 **Tech:** Kotlin, ARCore, SceneView, reCAPTCHA
 > Revamped a legacy AR module to eliminate rendering artifacts. Optimized 3D model loading pipelines to reduce memory footprint by **40%**, achieving a stable **60 FPS** experience. Integrated reCAPTCHA to secure the ordering flow.
 
-#### 🏈 [Clinch (Fantasy Sports)](https://apps.apple.com/us/app/clinch-fantasy-sports/id123456789)
+#### 🏈 Clinch (Fantasy Sports)
 **Tech:** Flutter, Dart, WebSockets, Provider
 > A high-traffic fantasy sports platform featuring **real-time play-by-play updates** for NFL, NBA, and MLB. Engineered shared business logic for 100% feature parity between Android and iOS with sub-second data latency.
 
-#### 🏥 [Hippocrates Campus App](https://github.com/AbdullahJaved-dev)
+#### 📡 SBA Sites Connect (Telecom)
+**Tech:** Kotlin, Java, ArcGIS SDK, MasterLock/Noke SDK
+> Architected a **multilingual tower management solution**, integrating **ArcGIS SDK** to visualize complex site distributions across regions. Implemented secure **BLE communication protocols** for site access control using MasterLock and Noke SDK integrations.
+
+#### 🏥 Hippocrates Campus App
 **Tech:** Flutter, Pathfinding Algorithms (Dijkstra/A*), Custom Painters
-> Implemented a custom **Indoor Navigation system** with dynamic route drawing. utilized weighted shortest-path routing and polyline smoothing algorithms to guide users through the campus complex.
+> Implemented a custom **Indoor Navigation system** with dynamic route drawing. Utilized weighted shortest-path routing and polyline smoothing algorithms to guide users through the campus complex.
 
 ---
 
